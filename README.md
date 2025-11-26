@@ -1,11 +1,17 @@
 # MOBILE ROBOTICS - OPEN LOOP CONTROL
-## Developed by : AKASH G
-## Register No. : 212224100004
+## Developed by : G.SINDHU PRIYA REDDY
+## Register No. : 212224040319
+
+
 ## Aim:
 To develop a python control code to move the mobilerobot along the predefined path.
+
+
+
 ## Equipments Required:
 1. RoboMaster EP core
 2. Python 3.7
+ 
 ## Procedure
 ### STEP 1 :
 Use from robomaster import robot
@@ -17,10 +23,17 @@ Give ep_chassis.move to move straight.
 Give time.sleep() for a break.
 ### STEP 5:
 Give ep_chassis.drive_speed to have a circular movement.
+
+
+
+
 ## Program
+
 ```
-## Developed by : AKASH G
-## Register No. : 212224100004
+
+## Developed by : DODLA SUSMITHA
+## Register No. : 212224110016
+
 from robomaster import robot
 import time
 
@@ -117,19 +130,19 @@ if _name_ == '_main_':
     
     ep_robot.close()
 
+
 ```
+
 
 ## MobileRobot Movement Image:
 <img width="827" alt="image" src="https://github.com/gauthamkrishna7/mobilerobot-openloopcontrol/assets/141175025/886ad367-4566-495a-86d2-702ace7b8c2d">
 
 ## MobileRobot Movement Video:
-https://youtu.be/1Y5Ojb-bRCU?si=jeV78wwoaC_ADvtu
-
+https://youtu.be/hciCJp1ADlU?si=WU_N21qmroxDc_ey
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-```
+
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
 Saveetha Engineering College
-```
