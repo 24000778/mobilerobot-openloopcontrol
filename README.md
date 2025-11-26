@@ -31,8 +31,8 @@ Give ep_chassis.drive_speed to have a circular movement.
 
 ```
 
-## Developed by : DODLA SUSMITHA
-## Register No. : 212224110016
+## Developed by : G.SINDHU PRIYA REDDY
+## Register No. : 212224040319
 
 from robomaster import robot
 import time
